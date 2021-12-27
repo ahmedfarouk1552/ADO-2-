@@ -1,0 +1,10 @@
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\bin\Debug\InsWithDisConnected.exe.config
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\bin\Debug\InsWithDisConnected.exe
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\bin\Debug\InsWithDisConnected.pdb
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\obj\Debug\InsWithDisConnected.csproj.AssemblyReference.cache
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\obj\Debug\InsWithDisConnected.Form1.resources
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\obj\Debug\InsWithDisConnected.Properties.Resources.resources
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\obj\Debug\InsWithDisConnected.csproj.GenerateResource.cache
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\obj\Debug\InsWithDisConnected.csproj.CoreCompileInputs.cache
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\obj\Debug\InsWithDisConnected.exe
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithDisConnected\InsWithDisConnected\obj\Debug\InsWithDisConnected.pdb

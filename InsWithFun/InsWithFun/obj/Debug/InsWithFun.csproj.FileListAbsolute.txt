@@ -1,0 +1,10 @@
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\bin\Debug\InsWithFun.exe.config
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\bin\Debug\InsWithFun.exe
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\bin\Debug\InsWithFun.pdb
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\obj\Debug\InsWithFun.csproj.AssemblyReference.cache
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\obj\Debug\InsWithFun.Form1.resources
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\obj\Debug\InsWithFun.Properties.Resources.resources
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\obj\Debug\InsWithFun.csproj.GenerateResource.cache
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\obj\Debug\InsWithFun.csproj.CoreCompileInputs.cache
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\obj\Debug\InsWithFun.exe
+F:\iti\الأسبوع العاشر\ADO\D02\Tasks\InsWithFun\InsWithFun\obj\Debug\InsWithFun.pdb
